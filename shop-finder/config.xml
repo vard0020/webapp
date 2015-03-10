@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="ca.edumedia.vard0020.shop-finder" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>shop-finder</name>
+    <description>
+        A simple cordova web application that uses Cordova Contacts API and geolocation API to fentches and display the user's current location and random contacts from the phone's contact list.
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Nune Vardanyan(vard0020)
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
